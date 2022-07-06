@@ -1,6 +1,4 @@
 # README
-
-## Tech Stack
 <br>
 <table>
 <thead>
