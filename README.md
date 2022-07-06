@@ -3,10 +3,10 @@ SKILLS
 <table>
 <thead>
 <td>
-	<b>Backend skills</b>
+	<b>Backend</b>
 </td>
 <td>
-	<b>Frontend Skills</b>
+	<b>Frontend</b>
 </td>
 <td>
 	<b>Database</b>
